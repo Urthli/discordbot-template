@@ -81,7 +81,7 @@ cd template
 2. **install dependencies**
 
 The following setup was tested on WSL2.
-To setup WSL2, see: 
+To setup WSL2, see: [Microsoft - How to install WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 
 ```bash
 python -m venv .venv
