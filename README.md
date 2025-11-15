@@ -24,7 +24,7 @@ You can set the log level via the ``--log_level`` argument.
 
 ## Directory Structure
 ```bash
-template/
+discordbot-template/
 ├── .config
 ├── main.py
 ├── bot/
