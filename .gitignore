@@ -1,0 +1,12 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# dotenv / config files
+.config
+
+# Logs
+logs/
+*.log
