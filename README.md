@@ -64,9 +64,17 @@ template/
 
 ## Setup Instructions
 
+### Discord Developer Portal
+Follow [these instructions](https://discordpy.readthedocs.io/en/stable/discord.html) to register your bot on the discord developer portal.
+
+> **Note:** When selecting the **scopes** for your bot, be sure to select both the **bot** and **applications.commands** scopes.
+> ![bot scopes](https://i.imgur.com/mEev4QD.png)
+
+### Local Setup
+
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Urthli/discordbot-template.git
 cd template
 ```
 
